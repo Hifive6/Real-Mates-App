@@ -50,7 +50,7 @@ export default class Createroompage extends Component {
                     <div class="modal-body">
 
                       <div class="input-group mb-3">
-                        <input type="text" class="form-control" placeholder="Creat Your Room'd Unique Name" aria-label="" aria-describedby="button-addon2"></input>
+                        <input type="text" class="form-control" placeholder="Create Your Room's Unique Name" aria-label="" aria-describedby="button-addon2"></input>
                         <div class="input-group-append">
                         <a href="/dashboard">
                           <button class="btn btn-outline-secondary" type="button" id="button-addon2">Create Room</button>
@@ -74,7 +74,7 @@ export default class Createroompage extends Component {
                 <div class="modal-dialog" role="document">
                   <div class="modal-content">
                     <div class="modal-header">
-                      <h5 class="modal-title" id="exampleModalLabel">Serach For A Room</h5>
+                      <h5 class="modal-title" id="exampleModalLabel">Search For A Room</h5>
                       <button type="button" class="close" data-dismiss="modal" aria-label="Close">
                         <span aria-hidden="true">&times;</span>
                       </button>
